@@ -1,1 +1,2 @@
 # Assignment1_1_Shopping_Cart_JMD
+In this project, I implemented an ADT that I had previously worked on. I then used this ADT to create a Shopping Cart List that has various methods. Methods include things such as adding an item, removing an item, getting the total price of the items, getting the current size of the Shopping Cart, and more. Further, this project allowed me to continue working on Generics as well as iterating through lists.
